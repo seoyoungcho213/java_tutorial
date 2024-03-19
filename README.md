@@ -7,3 +7,4 @@ I decided to follow 2 Java tutorials from Youtube to learn basics of Java :
 
 ### Day to Day Schdule
 Day 1 : Tutorial 1-13
+Day 2 : Tutorial 14-27
