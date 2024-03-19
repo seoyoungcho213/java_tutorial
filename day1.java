@@ -24,6 +24,7 @@ class cat{
     public static void main(String[] args) {
         Scanner bucky = new Scanner(System.in);
         System.out.println(bucky.nextLine());
+        bucky.close();
     }
 }
 
@@ -38,6 +39,7 @@ class dog{
         num2 = bucky.nextInt();
         ans = num1 + num2;
         System.out.println("Answer is " + ans);
+        bucky.close();
     }
 }
 
@@ -45,6 +47,7 @@ class dog{
  * day 1
  * Set up environment for Java
  * watched up to tutorial 13
+ * 
  * <What I've learned>
  * operations, loop, switch are same with C. 
  * 
@@ -56,4 +59,6 @@ class dog{
  * 
  * .nextLine waits til user responds -> needs it first
  * .nextDouble, .nextInt -> save string into specific data type
+ * 
+ * Everytime you use a scanner, you have to close it.
  */
