@@ -52,7 +52,7 @@ class coin {
 
 /*
  * day 2
- * watched up to tutorial 27
+ * watched up to tutorial 26
  * 
  * <What I've learned>
  * Can't use same class name even though you are in a different file.
