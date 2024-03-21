@@ -6,7 +6,7 @@ I decided to follow 2 Java tutorials from Youtube to learn basics of Java :
 [Intermediate] https://youtube.com/playlist?list=PL27BCE863B6A864E3&si=1WlPQgVJ_wDX3cqQ
 
 ### Day to Day Schdule
-Day 1 : Tutorial 1-13
-Day 2 : Tutorial 14-26
-Day 3 : Tutorial 27-35
-Day 4 : Tutorial 36-44
+Day 1 : Tutorial 1-13  
+Day 2 : Tutorial 14-26  
+Day 3 : Tutorial 27-35  
+Day 4 : Tutorial 36-44  
