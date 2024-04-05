@@ -12,3 +12,4 @@ Day 3 : Tutorial 27-35
 Day 4 : Tutorial 36-43    
 Day 5 : Tutorial 44-54  
 Day 6 : Tutorial 55-63  
+Day 7 : Tutorial 64-67
